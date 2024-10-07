@@ -1,0 +1,6 @@
+NilaiTest = int(input("Masukkan nilai tes: "))
+
+if NilaiTest >= 0 and NilaiTest <= 100:
+    print("Diterima")
+else:
+    print("Tidak diterima")
